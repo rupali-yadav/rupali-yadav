@@ -9,7 +9,7 @@
 
 - 🔭 Im are currently working on [Nextjs, TS and Tailwind css blog template](https://github.com/nmayur/nextjs-simple-blog-template)
 
-- 📝 I regularly write articles on [webexpe.com](webexpe.com)
+- 📝 I regularly write articles on [webexpe.com](https://www.webexpe.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
