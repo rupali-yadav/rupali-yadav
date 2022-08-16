@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋,im mayur</h1>
-<h3 align="center">A front end developer and designers with a passion to make beautiful websites and interfaces.</h3>
+<h1 align="center">Hi 👋, Im Mayur</h1>
+<h3 align="center">A front end developer and designer with a passion to make beautiful websites and interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmayur&label=Profile%20views&color=0e75b6&style=flat" alt="nmayur" /> </p>
 
