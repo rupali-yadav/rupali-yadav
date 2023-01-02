@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayur_nalwala" target="blank"><img src="https://img.shields.io/twitter/follow/mayur_nalwala?logo=twitter&style=for-the-badge" alt="mayur_nalwala" /></a> </p>
 
-- 🔭 Im are currently working on [Nextjs, TS and Tailwind css blog template](https://github.com/webexpe13/blog-template-using-nextjs-typescript-tailwindcss)
+- 🔭 Im currently working on [Nextjs, TS and Tailwind css blog template](https://github.com/webexpe13/blog-template-using-nextjs-typescript-tailwindcss)
 
 - 📝 I regularly write articles on [webexpe.com](https://www.webexpe.com)
 
