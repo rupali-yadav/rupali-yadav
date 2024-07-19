@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Im Mayur</h1>
-<h3 align="center">A front end developer and designer with a passion to make beautiful websites and interfaces.</h3>
+<h3 align="center">A front-end developer and designer passionate about making beautiful websites and interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmayur&label=Profile%20views&color=0e75b6&style=flat" alt="nmayur" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayur_nalwala" target="blank"><img src="https://img.shields.io/twitter/follow/mayur_nalwala?logo=twitter&style=for-the-badge" alt="mayur_nalwala" /></a> </p>
 
-- 🔭 Im currently working on [Nextjs, TS and Tailwind css blog template](https://github.com/webexpe13/blog-template-using-nextjs-typescript-tailwindcss)
+- 🔭 Im currently working on a Personal AI assistant to help me in coding and other things.
 
 - 📝 I regularly write articles on [webexpe.com](https://www.webexpe.com)
 
