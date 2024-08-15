@@ -108,7 +108,7 @@ export default function Page() {
               ))}
             <BlurFade delay={BLUR_FADE_DELAY * 36}>
               <a
-                href={"/Mayur Nalwala.pdf"}
+                href={"/nmayur/Mayur Nalwala.pdf"}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 group mb-2"
