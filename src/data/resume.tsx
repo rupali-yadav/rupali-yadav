@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Mayur Nalwala",
   initials: "MN",
-  url: "https://dillion.io",
+  url: "https://github.com/nmayur",
   location: "Mumbai, India",
   description:
     "Crafting Beautiful and Engaging Digital Experiences with Love and Code.",
@@ -15,7 +15,7 @@ Over the years, I've had the privilege of building websites and web applications
 I like helping new developers and working with emerging startups to bring their ideas to life. Outside of work, I enjoy sharing my knowledge through articles on my blog, [webexpe.com](https://webexpe.com/), and creating fun dev memes for Instagram.
 
 Let's build something amazing together!`,
-  avatarUrl: "/mayur-nalwala.png",
+  avatarUrl: "/nmayur/mayur-nalwala.png",
   skills: [
     "React",
     "Next.js",

@@ -182,7 +182,7 @@ export default function Page() {
           </div>
         </section>
       </section>
-      <section id="projects" className="px-6 mt-20 overflow-x-hidden">
+      <section id="projects" className="px-6 mt-20 overflow-hidden">
         <div className="space-y-12 w-full py-12">
           <BlurFade delay={BLUR_FADE_DELAY * 11}>
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
