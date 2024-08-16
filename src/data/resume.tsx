@@ -187,7 +187,7 @@ Let's build something amazing together!`,
       dates: "",
       active: false,
       description:
-        "Building a dashboard for a logistics company to manage sales inquiries, leads, and import/export operations. Utilizing Next.js 14, TypeScript, Tailwind CSS, and Firebase for backend services. Planning to evolve the project into a SaaS product post-launch and testing.",
+        "Building a utility dashboard for emerging logistics company. Utilizing Next.js 14, TypeScript, Tailwind CSS, and Firebase for backend services. Planning to evolve the project into a SaaS product post-launch and testing.",
       technologies: ["Next.js", "Typescript", "TailwindCSS","Firebase"],
       links: [],
       image: "",
