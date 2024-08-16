@@ -6,6 +6,7 @@ import { ResumeCard } from "@/components/resume-card";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Badge } from "@/components/ui/badge";
 import { DATA } from "@/data/resume";
+import { ArrowUpRight } from "lucide-react";
 import Markdown from "react-markdown";
 
 const BLUR_FADE_DELAY = 0.04;
@@ -89,36 +90,42 @@ export default function Page() {
                 </a>
               </p>
             </BlurFade>
-            {Object.entries(DATA.contact.social)
-              .filter(([_, social]) => social.navbar)
-              .map(([name, social], i) => (
-                <BlurFade delay={BLUR_FADE_DELAY * 30 + i * 0.1} key={name}>
-                  <a
-                    href={social.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center gap-2 group mb-2"
+
+            <div className="flex flex-wrap w-full gap-3 justify-between">
+              {Object.entries(DATA.contact.social)
+                .filter(([_, social]) => social.navbar)
+                .map(([name, social], i) => (
+                  <BlurFade
+                    delay={BLUR_FADE_DELAY * 30 + i * 0.1}
+                    key={name}
                   >
-                    <span className="h-[1px] w-[30px] bg-muted-foreground block transition-all group-hover:w-[50px] group-hover:bg-blue-500"></span>
-                    <span className="transition-all text-pretty text-xm text-muted-foreground group-hover:text-blue-500">
-                      {name}
-                    </span>
-                  </a>
-                </BlurFade>
-              ))}
-            <BlurFade delay={BLUR_FADE_DELAY * 36}>
-              <a
-                href={"/nmayur/Mayur Nalwala.pdf"}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 group mb-2"
-              >
-                <span className="h-[1px] w-[30px] bg-muted-foreground block transition-all group-hover:w-[50px] group-hover:bg-blue-500"></span>
-                <span className="transition-all text-pretty text-xm text-muted-foreground group-hover:text-blue-500">
-                  Resume
-                </span>
-              </a>
-            </BlurFade>
+                    <a
+                      href={social.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center gap-1 mb-2 text-muted-foreground hover:text-blue-500"
+                    >
+                      <span className="transition-all text-pretty text-xm ">
+                        {name}
+                      </span>
+                      <ArrowUpRight size={20} />
+                    </a>
+                  </BlurFade>
+                ))}
+              <BlurFade delay={BLUR_FADE_DELAY * 36}>
+                <a
+                  href={"/nmayur/Mayur Nalwala.pdf"}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2 mb-2 text-muted-foreground hover:text-blue-500"
+                >
+                  <span className="transition-all text-pretty text-xm ">
+                    Resume
+                  </span>
+                  <ArrowUpRight size={20} />
+                </a>
+              </BlurFade>
+            </div>
           </div>
         </section>
 
