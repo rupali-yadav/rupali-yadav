@@ -2,9 +2,9 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Mayur Nalwala",
-  initials: "MN",
-  url: "https://github.com/nmayur",
+  name: "Rupali Yadav",
+  initials: "RY",
+  url: "https://github.com/rupali-yadav",
   location: "Mumbai, India",
   description:
     "Crafting Beautiful and Engaging Digital Experiences with Love and Code.",
@@ -30,12 +30,12 @@ Let's build something amazing together!`,
   ],
   navbar: [{ href: "/", icon: HomeIcon, label: "Home" }],
   contact: {
-    email: "nmayurashok@gmail.com",
-    tel: "+91 916 739 5734",
+    email: "rupali.yadav0@gmail.com",
+    tel: "+91 869 197 3322",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/nmayur",
+        url: "https://github.com/rupali-yadav",
         icon: Icons.github,
 
         navbar: true,
@@ -56,7 +56,7 @@ Let's build something amazing together!`,
       },
       email: {
         name: "Send Email",
-        url: "mailto:nmayurashok@gmail.com",
+        url: "mailto:rupali.yadav0@gmail.com",
         icon: Icons.email,
 
         navbar: false,
