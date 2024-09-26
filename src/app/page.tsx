@@ -69,19 +69,19 @@ export default function Page() {
             <BlurFade delay={BLUR_FADE_DELAY * 22} className="mb-5">
               <p className="text-sm text-pretty mt-2 text-muted-foreground">
                 <a
-                  href="http://wa.me/+919167395734"
+                  href="http://wa.me/+918691973322"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-blue-500 transition-all"
                 >
-                  +91 916 739 5734 (Whatsapp)
+                  +91 869 197 3322 (Whatsapp)
                 </a>{" "}
                 /{" "}
                 <a
-                  href="tel:+919137814068"
+                  href="tel:+919892288589"
                   className="hover:text-blue-500 transition-all"
                 >
-                  913 781 4068
+                  989 228 8589
                 </a>
               </p>
               <p className="text-sm text-pretty mt-2 text-muted-foreground hover:text-blue-500 transition-all">
@@ -226,7 +226,7 @@ export default function Page() {
           </div>
         </div>
       </section>
-      <section id="projects" className="px-6 mt-20">
+      {/* <section id="projects" className="px-6 mt-20">
         <div className="space-y-12 w-full py-12">
           <BlurFade delay={BLUR_FADE_DELAY * 11}>
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
@@ -261,7 +261,7 @@ export default function Page() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
     </main>
   );
 }

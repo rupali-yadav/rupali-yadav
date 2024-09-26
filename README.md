@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Im Mayur</h1>
+<h1 align="center">Hi 👋, Im Rupali</h1>
 <h3 align="center">A front-end developer and designer passionate about making beautiful websites and interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmayur&label=Profile%20views&color=0e75b6&style=flat" alt="nmayur" /> </p>

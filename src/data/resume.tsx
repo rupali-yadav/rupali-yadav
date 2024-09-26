@@ -7,8 +7,8 @@ export const DATA = {
   url: "https://github.com/rupali-yadav",
   location: "Mumbai, India",
   description:
-    "Crafting Beautiful and Engaging Digital Experiences with Love and Code.",
-  summary: `I'm Mayur Nalwala, a design-oriented front-end developer passionate about creating pixel-perfect, engaging, and accessible digital experiences. My journey began in 2014 when I first dabbled in creating websites using Bootstrap. What started as an experiment quickly became a deep dive into the vast and exciting world of coding and web development.
+    "Creating Stunning and User-Centric Digital Experiences through Code",
+  summary: `I'm Rupali Yadav, a design-oriented front-end developer passionate about creating pixel-perfect, engaging, and accessible digital experiences. My journey began in 2014 when I first dabbled in creating websites using Bootstrap. What started as an experiment quickly became a deep dive into the vast and exciting world of coding and web development.
 
 Over the years, I've had the privilege of building websites and web applications for agencies, start-ups, and large corporations, always striving to find that sweet spot where design meets engineering. I believe that the best digital experiences are not only visually appealing but also built with solid engineering principles.
 
@@ -49,7 +49,7 @@ Let's build something amazing together!`,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/mayur-nalwala/",
+        url: "https://www.linkedin.com/in/rupali-yadav-087bb4112/",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -66,63 +66,38 @@ Let's build something amazing together!`,
 
   work: [
     {
-      company: "Mphasis",
-      href: "https://www.mphasis.com/home.html",
-      badges: ["NextJS", "Typescript", "Redux"],
-      location: "Mumbai, Hybrid",
-      title: "Delivery Module Lead",
-      logoUrl: "",
-      start: "March 2024",
-      end: "Present",
-      description: `Spearheaded the development of a video verification system for web and mobile platforms using Next.js and TypeScript. Managed the project lifecycle from concept to launch, ensuring seamless collaboration across design, backend, and testing teams. Set up comprehensive unit testing with Jest and React Testing Library, achieving 85% test coverage and i18n support for 10+ Indian regional languages.`,
-    },
-    {
-      company: "Paytm",
-      badges: ["ReactJS", "Typescript", "Redux", "SCSS"],
-      href: "https://paytm.com",
-      location: "Mumbai, Remote",
-      title: "Sr. Software Engineer - Frontend",
-      logoUrl: "",
-      start: "July 2020",
-      end: "Oct 2023",
-      description:
-        "Built and maintained a component library with 30+ reusable components for Paytm’s web and mobile applications using React.js and TypeScript. Developed a lightweight CSS framework for insurance products, reducing development time by 20% and enhancing consistency across web applications.",
-    },
-    {
-      company: "Wharf Street Strategies",
-      href: "https://wharfstreetstrategies.com/",
-      badges: ["HTML", "SCSS", "ReactJS", "Redux", "Bootstrap", "AdobeXD"],
-      location: "Navi Mumbai, India",
-      title: "Sr. Frontend Developer and Designer",
-      logoUrl: "",
-      start: "August 2019",
-      end: "July 2020",
-      description:
-        "Optimized website performance using React.js and Redux, increasing page load speed by 35% and reducing bounce rate to 48%. Designed and implemented UX strategies, improving user session duration by 20% and overall user satisfaction, attracting international clients. Mentored junior developers and designers, contributing to team growth and capability.",
-    },
-    {
-      company: "Auxesis Group",
-      href: "",
-      badges: ["HTML", "SCSS", "Bootstrap", "Angular", "JavaScript", "JQuery"],
+      company: "Accenture",
+      href: "https://www.accenture.com/in-en",
+      badges: ["ReactJS", "NextJS", "Typescript", "Redux", "SCSS", "Jest"],
       location: "Mumbai, India",
       title: "Software Engineer",
-      logoUrl: "",
-      start: "April 2017 - Sep 2017",
-      end: "May 2018  -  July 2019",
-      description:
-        "Led the redesign of websites, boosting overall traffic by 30%. Developed a comprehensive design system, accelerating the design process and reducing time-to-market by 15%. Collaborated across departments to deliver advanced UI designs with animations, ensuring high usability, performance, and SEO.",
+      logoUrl: "https://logos-world.net/wp-content/uploads/2020/06/Accenture-Emblem.png",
+      start: "April 2022",
+      end: "present",
+      description: "During my tenure at Accenture, I contributed to three key projects: Unilever, TGO, and BFSG. I collaborated with the product team on web page designs, resolved front-end queries for other teams, drafted API responses and guided junior developers, ensuring clear communication and adherence to coding standards within the UI team."
     },
     {
-      company: "Ideamagix",
-      href: "https://www.ideamagix.com/index.html",
-      badges: ["HTML", "SCSS", "Bootstrap", "JavaScript", "JQuery"],
+      company: "Tata Consultancy Services",
+      href: "https://www.tcs.com/",
+      badges: ["ReactJS", "NextJS", "Redux", "Jest", "SCSS"],
       location: "Mumbai, India",
-      title: "Web Developer & Designer Intern",
-      logoUrl: "",
-      start: "Sep 2016",
-      end: "Jan 2017",
+      title: "IT Analyst",
+      logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvnrwp5tPxI72Reu074a05i1pmISdUFDGuig&s",
+      start: "May 2021",
+      end: "April 2022",
       description:
-        "Created and crafted websites, logos, branding, and marketing materials.Engaged in client meetings to discuss product/project requirements. Collaborated with the team to successfully deliver 8+ projects, meeting client specifications each time.",
+        "I worked as the Lead Front-End Developer for the Envoy Portal project at CIBC, migrating a legacy web app to a modern Next.js application. Improved page load times by 6-8 seconds, ensured cross-browser compatibility, and maintained high coding standards while mentoring team members in React.js and JavaScript."
+    },
+    {
+      company: "Reliance Jio",
+      href: "https://www.jio.com/",
+      badges: ["JavaScript", "ReactJS", "NextJS", "Redux", "Jest", "emotionJS"],
+      location: "Navi Mumbai, India",
+      title: "Assistant Manager",
+      logoUrl: "https://rilstaticasset.akamaized.net/sites/default/files/2023-02/jio.jpg",
+      start: "March 2024",
+      end: "April 2021",
+      description: `Led the development of SEO-friendly web pages using React.js and Next.js for Jio's Recharge, Login, and User Dashboard portals. Collaborated with the backend team to design API responses, integrated Google Analytics, and enhanced UI/UX for various projects, including Jio KBC Play Along and Jio mHere, improving performance and user experience`
     },
   ],
   education: [
@@ -131,15 +106,15 @@ Let's build something amazing together!`,
       href: "https://nextleap.app/",
       degree: "Product Management Fellow",
       logoUrl: "/buildspace.jpg",
-      start: "Sep 2023",
-      end: "Nov 2023",
+      start: "June 2023",
+      end: "Oct 2023",
     },
     {
       school: "Mumbai University",
       degree: "Bachelor of Engineering - Computer Science",
       logoUrl: "/waterloo.png",
-      start: "2012",
-      end: "2016",
+      start: "2013",
+      end: "2017",
     },
   ],
   projects: [
@@ -162,6 +137,24 @@ Let's build something amazing together!`,
       video: "",
     },
     {
+      title: "Movieflix OTT Saas - Next.js, Typescript, TailwindCSS, shadcn-ui, Prisma, MongoDB",
+      href: "",
+      dates: "",
+      active: true,
+      description:
+        "Movieflix is an OTT app built using Next.js, TypeScript, TailwindCSS, shadcn-ui, Prisma, and MongoDB. It allows users to log in, create multiple profiles, watch movies with progress tracking, and manage their watchlist. The platform offers a seamless and personalized streaming experience.",
+      technologies: ["Next.js", "Typescript", "TailwindCSS", "Prisma", "MongoDB"],
+      links: [
+        {
+          type: "Demo",
+          href: "",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
       title: "Blog template - MDX, Next.js, TailwindCSS, Typescript",
       href: "",
       dates: "",
@@ -178,33 +171,8 @@ Let's build something amazing together!`,
       ],
       image: "",
       video: "",
-    },
-  ],
-  upComingProjects: [
-    {
-      title: "Logistics Dashboard & SaaS Product",
-      href: "",
-      dates: "",
-      active: false,
-      description:
-        "Building a utility dashboard for emerging logistics company. Utilizing Next.js 14, TypeScript, Tailwind CSS, and Firebase for backend services. Planning to evolve the project into a SaaS product post-launch and testing.",
-      technologies: ["Next.js", "Typescript", "TailwindCSS","Firebase"],
-      links: [],
-      image: "",
-      video: "",
-    },
-    {
-      title: "Learning App",
-      href: "",
-      dates: "",
-      active: false,
-      description:
-        "Developing an educational app, incorporating research-backed design elements to enhance learning. Aiming to expand skills in mobile app development for iOS, Android, and smart TVs.",
-      technologies: ["React Native", "AppWrite / Firebase"],
-      links: [],
-      image: "",
-      video: "",
-    },
+    }
+
   ],
   hackathons: [],
 } as const;
