@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupali-yadav" alt="" /></a> </p>
 
-- 🔭 Im currently working on a Personal AI assistant to help me in coding and other things.
+- 🔭 Im currently working on a Movie OTT Template Sass using NextJS, Prisma and MongoDB.
 
 - 📝 I regularly write articles on [webexpe.com](https://www.webexpe.com)
 
