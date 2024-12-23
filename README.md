@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupali-yadav" alt="rupali-yadav" /></a> </p>
 
-- 🔭 I’m currently working on [Movie OTT App](https://movie-app.fly.dev/login)
+- 🔭 I’m have recently completed [Movie OTT App](https://movie-app.fly.dev/login) & currently working on a [AI-Assistant App](https://github.com/rupali-yadav/AI-assistant-SAAS-using-nextJS-prisma)
 
 - 🌱 I’m currently learning **Prisma, MongoDB, React Native, TurboRepo**
 
