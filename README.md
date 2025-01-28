@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupali-yadav" alt="rupali-yadav" /></a> </p>
 
-- 🔭 I’m have recently completed [Movie OTT App](https://movie-app.fly.dev/login) & currently working on a [AI-Assistant App](https://github.com/rupali-yadav/AI-assistant-SAAS-using-nextJS-prisma)
+- 🔭 I’m have recently completed [Movie OTT App](https://movie-app.fly.dev/login), [Convrtit](https://webexpe.com/cnvrtit/)- A nifty collection of simple coverters and tools. & currently working on a [AI-Assistant App](https://github.com/rupali-yadav/AI-assistant-SAAS-using-nextJS-prisma)
 
 - 🌱 I’m currently learning **Prisma, MongoDB, React Native, TurboRepo**
 
 - 👨‍💻 All of my projects are available at [https://rupali-yadav.notion.site/Rupali-Yadav-11451dd107a442ea8965fe76af058e04?pvs=74](https://rupali-yadav.notion.site/Rupali-Yadav-11451dd107a442ea8965fe76af058e04?pvs=74)
 
-- 📝 I regularly write articles on [webexpe.com](https://webexpe.com)
+- 📝 I write articles on [webexpe.com](https://webexpe.com)
 
 - 💬 Ask me about **React, NextJs, Javascript, Product Management**
 
