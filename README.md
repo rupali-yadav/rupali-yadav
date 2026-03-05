@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupali-yadav" alt="rupali-yadav" /></a> </p>
 
-- 🔭 I’m have recently completed [Movie OTT App](https://movie-app.fly.dev/login),  [Convrtit](https://webexpe.com/cnvrtit/) - A nifty collection of simple coverters and tools & currently working on a [AI-Assistant App](https://github.com/rupali-yadav/AI-assistant-SAAS-using-nextJS-prisma)
+- 🔭 I’m have recently completed [Movie OTT App](https://movie-app.fly.dev/login),  [Convrtit](https://webexpe.com/cnvrtit/) - A nifty collection of simple coverters and tools & currently want to complete [AI-Assistant App](https://github.com/rupali-yadav/AI-assistant-SAAS-using-nextJS-prisma)
 
-- 🌱 I’m currently want to learn **React Native and TurboRepo**
+- 🌱 I currently also want to learn **React Native and TurboRepo**
 
 - 👨‍💻 All of my projects are available at [https://rupali-yadav.notion.site/Rupali-Yadav-11451dd107a442ea8965fe76af058e04?pvs=74](https://rupali-yadav.notion.site/Rupali-Yadav-11451dd107a442ea8965fe76af058e04?pvs=74)
 
