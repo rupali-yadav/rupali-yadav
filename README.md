@@ -7,7 +7,7 @@
 
 - 🔭 I’m have recently completed [Movie OTT App](https://movie-app.fly.dev/login),  [Convrtit](https://webexpe.com/cnvrtit/) - A nifty collection of simple coverters and tools & currently working on a [AI-Assistant App](https://github.com/rupali-yadav/AI-assistant-SAAS-using-nextJS-prisma)
 
-- 🌱 I’m currently learning **Prisma, MongoDB, React Native, TurboRepo**
+- 🌱 I’m currently want to learn **React Native and TurboRepo**
 
 - 👨‍💻 All of my projects are available at [https://rupali-yadav.notion.site/Rupali-Yadav-11451dd107a442ea8965fe76af058e04?pvs=74](https://rupali-yadav.notion.site/Rupali-Yadav-11451dd107a442ea8965fe76af058e04?pvs=74)
 
